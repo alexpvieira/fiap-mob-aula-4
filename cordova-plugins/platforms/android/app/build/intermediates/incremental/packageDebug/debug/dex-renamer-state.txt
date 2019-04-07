@@ -1,0 +1,4 @@
+#Sun Apr 07 11:38:30 BRT 2019
+base.0=/Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
