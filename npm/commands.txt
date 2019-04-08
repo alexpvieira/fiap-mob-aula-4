@@ -1,0 +1,4 @@
+npm init
+npm install axios
+npm install @babel/polyfill --save-dev
+npm install -g cordova

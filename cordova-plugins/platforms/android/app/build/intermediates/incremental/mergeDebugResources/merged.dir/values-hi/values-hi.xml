@@ -18,6 +18,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"फ़ोन पर खोलें"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"साइन इन करें"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google के ज़रिए साइन इन करें"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"अन्य"</string>
     <string name="pgm_api_key_error">कृपया platforms/android/app/src/AndroidManifest.xml मे \'API_KEY_FOR_ANDROID\' को  अपनी  एपीआई कुंजी से बदलें</string>
     <string name="pgm_can_not_get_location">आप के स्थान का पता नही चल रहा है. कृप्या फिरसे प्रयास करें.</string>
     <string name="pgm_google_close_button">बंद</string>

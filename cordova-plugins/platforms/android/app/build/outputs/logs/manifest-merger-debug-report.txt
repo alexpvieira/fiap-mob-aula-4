@@ -11,28 +11,45 @@ INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/androi
 	android:name
 		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:12:127-180
 manifest
-ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
 MERGED from [:tbxml-android:] /Users/alex/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/48ed1985d329cc182224326a0549c845/AndroidManifest.xml:2:1-11:12
+MERGED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:2:1-107:12
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/6f9090ff5dd7c7f333295d540fdc5afc/AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/ca5a58c65efa65a10081ff1ed5ac2950/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.2.aar/ca686c64edd69500ae35424b67046ff7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/510d3ba5aa9668031be15c24d11025cb/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8ebbe34fd1e7c22a38712955d18aea96/AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6c888a1774aa3674bf108eca6e16531c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/526f6e43a218e4cd3923a9fd926c8c7b/AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/4c59def6e4649c5c93692e001810c90b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-15.0.0.aar/f981c02db0dddd2ffa0f67350585ff35/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/4277cb8c4fd3bf5d5b1c18cd4120f433/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/1319921e277b8cd3cad14e073d278729/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/860a49eaf0e6db938a044ed007a99df4/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34a5a821462025337db95dc0e0a46a28/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1f87fc2b5d140f84924115200a083e8f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6d1fb9268e6665b36f3f144293f352d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6796409be5a65896ca3c656d687895d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/3296960269c428b07208d0f8495bb3cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f0704f9c74a5d675e0c385bbd8a5a314/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a610c1f56700947b91b2df0f0c9153fe/AndroidManifest.xml:17:1-22:12
 MERGED from [:CordovaLib] /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/109a36b4329d8d86f4a0c0c366fb92c4/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/efa80e4fbbabd1b17edba34292a05c3a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a457514bfe6de748c6b173d9d1f34fe8/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a00a71a87a75d02978c7ab109f00e31d/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/71b0ab2577385831f45c6aeccab07a4c/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1378d0c1f131c0f6d56f3beb7fba6332/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b4c2be5aa8111f688d8daba945fb5085/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e4d63cbd1f3c6ef6b073c3d71c36867c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/ce5b7863f93a593b50251a65be71dd13/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:2:102-131
 		INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml
@@ -65,32 +82,60 @@ ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/a
 		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
 uses-permission#android.permission.INTERNET
 ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:17:5-67
+MERGED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:17:5-67
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/6f9090ff5dd7c7f333295d540fdc5afc/AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/6f9090ff5dd7c7f333295d540fdc5afc/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:5:5-18:19
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:5:5-27:19
+MERGED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:49:5-105:19
+MERGED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:49:5-105:19
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/6f9090ff5dd7c7f333295d540fdc5afc/AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/6f9090ff5dd7c7f333295d540fdc5afc/AndroidManifest.xml:30:5-20
 MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/ca5a58c65efa65a10081ff1ed5ac2950/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/ca5a58c65efa65a10081ff1ed5ac2950/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.2.aar/ca686c64edd69500ae35424b67046ff7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.2.aar/ca686c64edd69500ae35424b67046ff7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/510d3ba5aa9668031be15c24d11025cb/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/510d3ba5aa9668031be15c24d11025cb/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8ebbe34fd1e7c22a38712955d18aea96/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8ebbe34fd1e7c22a38712955d18aea96/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6c888a1774aa3674bf108eca6e16531c/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6c888a1774aa3674bf108eca6e16531c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/526f6e43a218e4cd3923a9fd926c8c7b/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/526f6e43a218e4cd3923a9fd926c8c7b/AndroidManifest.xml:7:5-13:19
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/4c59def6e4649c5c93692e001810c90b/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/4c59def6e4649c5c93692e001810c90b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-15.0.0.aar/f981c02db0dddd2ffa0f67350585ff35/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-15.0.0.aar/f981c02db0dddd2ffa0f67350585ff35/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/4277cb8c4fd3bf5d5b1c18cd4120f433/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/4277cb8c4fd3bf5d5b1c18cd4120f433/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/1319921e277b8cd3cad14e073d278729/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/1319921e277b8cd3cad14e073d278729/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/860a49eaf0e6db938a044ed007a99df4/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/860a49eaf0e6db938a044ed007a99df4/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34a5a821462025337db95dc0e0a46a28/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34a5a821462025337db95dc0e0a46a28/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1f87fc2b5d140f84924115200a083e8f/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1f87fc2b5d140f84924115200a083e8f/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/109a36b4329d8d86f4a0c0c366fb92c4/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/109a36b4329d8d86f4a0c0c366fb92c4/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/efa80e4fbbabd1b17edba34292a05c3a/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/efa80e4fbbabd1b17edba34292a05c3a/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/ce5b7863f93a593b50251a65be71dd13/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/ce5b7863f93a593b50251a65be71dd13/AndroidManifest.xml:22:5-20
 	android:supportsRtl
 		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
 	android:label
@@ -145,88 +190,508 @@ ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/a
 		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:17:61-85
 	android:name
 		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:17:23-60
+amazon:enable-feature
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:18:9-159
+	xmlns:amazon
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:18:100-156
+	android:required
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:18:75-99
+	android:name
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:18:32-74
+service#com.onesignal.ADMMessageHandler
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:19:9-92
+	android:exported
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:19:18-42
+	android:name
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:19:43-89
+receiver#com.onesignal.ADMMessageHandler$Receiver
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:permission
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:20:75-139
+	android:name
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:20:19-74
+intent-filter#com.amazon.device.messaging.intent.RECEIVE+com.amazon.device.messaging.intent.REGISTRATION+com.example.plugins
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:21:13-25:29
+action#com.amazon.device.messaging.intent.REGISTRATION
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:22:17-90
+	android:name
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:22:25-87
+action#com.amazon.device.messaging.intent.RECEIVE
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:23:17-85
+	android:name
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:23:25-82
+category#com.example.plugins
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:24:17-64
+	android:name
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:24:27-61
 uses-sdk
-ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:19:5-74
-INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:19:5-74
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:28:5-74
+INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:28:5-74
 MERGED from [:tbxml-android:] /Users/alex/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/48ed1985d329cc182224326a0549c845/AndroidManifest.xml:7:5-9:41
 MERGED from [:tbxml-android:] /Users/alex/.gradle/caches/transforms-1/files-1.1/tbxml-android.aar/48ed1985d329cc182224326a0549c845/AndroidManifest.xml:7:5-9:41
+MERGED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:5:5-44
+MERGED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/6f9090ff5dd7c7f333295d540fdc5afc/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/6f9090ff5dd7c7f333295d540fdc5afc/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/ca5a58c65efa65a10081ff1ed5ac2950/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/ca5a58c65efa65a10081ff1ed5ac2950/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.2.aar/ca686c64edd69500ae35424b67046ff7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.2.aar/ca686c64edd69500ae35424b67046ff7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/510d3ba5aa9668031be15c24d11025cb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/510d3ba5aa9668031be15c24d11025cb/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8ebbe34fd1e7c22a38712955d18aea96/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8ebbe34fd1e7c22a38712955d18aea96/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6c888a1774aa3674bf108eca6e16531c/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/6c888a1774aa3674bf108eca6e16531c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/526f6e43a218e4cd3923a9fd926c8c7b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/526f6e43a218e4cd3923a9fd926c8c7b/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/4c59def6e4649c5c93692e001810c90b/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/4c59def6e4649c5c93692e001810c90b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-15.0.0.aar/f981c02db0dddd2ffa0f67350585ff35/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-15.0.0.aar/f981c02db0dddd2ffa0f67350585ff35/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/4277cb8c4fd3bf5d5b1c18cd4120f433/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/4277cb8c4fd3bf5d5b1c18cd4120f433/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/1319921e277b8cd3cad14e073d278729/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/1319921e277b8cd3cad14e073d278729/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/860a49eaf0e6db938a044ed007a99df4/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/860a49eaf0e6db938a044ed007a99df4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34a5a821462025337db95dc0e0a46a28/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34a5a821462025337db95dc0e0a46a28/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1f87fc2b5d140f84924115200a083e8f/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1f87fc2b5d140f84924115200a083e8f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-v4:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6d1fb9268e6665b36f3f144293f352d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6d1fb9268e6665b36f3f144293f352d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6796409be5a65896ca3c656d687895d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6796409be5a65896ca3c656d687895d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/3296960269c428b07208d0f8495bb3cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/3296960269c428b07208d0f8495bb3cc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f0704f9c74a5d675e0c385bbd8a5a314/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f0704f9c74a5d675e0c385bbd8a5a314/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a610c1f56700947b91b2df0f0c9153fe/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-utils:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a610c1f56700947b91b2df0f0c9153fe/AndroidManifest.xml:20:5-44
 MERGED from [:CordovaLib] /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
 MERGED from [:CordovaLib] /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/109a36b4329d8d86f4a0c0c366fb92c4/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/109a36b4329d8d86f4a0c0c366fb92c4/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/efa80e4fbbabd1b17edba34292a05c3a/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/efa80e4fbbabd1b17edba34292a05c3a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a457514bfe6de748c6b173d9d1f34fe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a457514bfe6de748c6b173d9d1f34fe8/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a00a71a87a75d02978c7ab109f00e31d/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a00a71a87a75d02978c7ab109f00e31d/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/71b0ab2577385831f45c6aeccab07a4c/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/71b0ab2577385831f45c6aeccab07a4c/AndroidManifest.xml:20:5-44
-INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:19:5-74
-	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34a5a821462025337db95dc0e0a46a28/AndroidManifest.xml:23:9-51
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1378d0c1f131c0f6d56f3beb7fba6332/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/1378d0c1f131c0f6d56f3beb7fba6332/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b4c2be5aa8111f688d8daba945fb5085/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b4c2be5aa8111f688d8daba945fb5085/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e4d63cbd1f3c6ef6b073c3d71c36867c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e4d63cbd1f3c6ef6b073c3d71c36867c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/ce5b7863f93a593b50251a65be71dd13/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/ce5b7863f93a593b50251a65be71dd13/AndroidManifest.xml:20:5-44
+INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:28:5-74
 	android:targetSdkVersion
-		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:19:42-71
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:28:42-71
 	android:minSdkVersion
-		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:19:15-41
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:28:15-41
 		INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:20:5-81
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:29:5-81
 	android:name
-		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:20:22-78
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:29:22-78
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:21:5-81
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:30:5-81
 	android:name
-		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:21:22-78
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:30:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:22:5-79
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:31:5-79
 	android:name
-		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:22:22-76
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:31:22-76
 uses-feature#android.hardware.location.gps
-ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:23:5-66
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:32:5-66
 	android:name
-		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:23:19-63
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:32:19-63
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:24:5-79
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:33:5-79
+MERGED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:25:5-79
+MERGED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:25:5-79
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/6f9090ff5dd7c7f333295d540fdc5afc/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/6f9090ff5dd7c7f333295d540fdc5afc/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:24:22-76
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:33:22-76
 uses-feature#0x00020000
-ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:25:5-78
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:34:5-78
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/6f9090ff5dd7c7f333295d540fdc5afc/AndroidManifest.xml:26:5-28:35
 MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/6f9090ff5dd7c7f333295d540fdc5afc/AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
-		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:25:19-51
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:34:19-51
 	android:required
-		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:25:52-75
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:34:52-75
 uses-feature#android.hardware.location
-ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:26:5-62
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:35:5-62
 	android:name
-		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:26:19-59
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:35:19-59
+uses-permission#com.amazon.device.messaging.permission.RECEIVE
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:36:5-86
+	android:name
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:36:22-83
+permission#com.example.plugins.permission.RECEIVE_ADM_MESSAGE
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:37:5-121
+	android:protectionLevel
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:37:83-118
+	android:name
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:37:17-82
+uses-permission#com.example.plugins.permission.RECEIVE_ADM_MESSAGE
+ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:38:5-90
+	android:name
+		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:38:22-87
 meta-data#android.support.FILE_PROVIDER_PATHS
 ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:13:13-123
 	android:resource
 		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:13:75-120
 	android:name
 		ADDED from /Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/src/main/AndroidManifest.xml:13:24-74
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:8:5-10:47
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:28:5-30:47
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:9:9-63
+permission#com.example.plugins.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:8:5-10:47
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:28:5-30:47
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:9:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:32:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:12:22-76
+uses-permission#com.example.plugins.permission.C2D_MESSAGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:32:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:12:22-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:18:5-82
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:18:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:19:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:24:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:30:22-78
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:32:5-86
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:32:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:33:5-87
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:33:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:34:5-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:34:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:35:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:35:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:36:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:36:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:37:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:37:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:38:5-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:38:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:39:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:39:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:40:5-91
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:40:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:41:5-92
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:41:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:42:5-93
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:42:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:43:5-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:43:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:44:5-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:44:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:45:5-83
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:45:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:46:5-88
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:46:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:47:5-89
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:47:22-86
+meta-data#onesignal_app_id
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:50:9-52:51
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:52:13-48
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:51:13-44
+meta-data#onesignal_google_project_number
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:54:9-56:70
+	android:value
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:56:13-67
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:55:13-59
+receiver#com.onesignal.GcmBroadcastReceiver
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:58:9-68:20
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:60:13-73
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:59:13-62
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:63:13-67:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:63:28-50
+intent-filter#com.example.plugins+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:63:13-67:29
+	android:priority
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:63:28-50
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:64:17-81
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:64:25-78
+category#${applicationId}
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:66:17-61
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:66:27-58
+receiver#com.onesignal.NotificationOpenedReceiver
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:69:9-77
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:69:19-74
+service#com.onesignal.GcmIntentService
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:71:9-66
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:71:18-63
+service#com.onesignal.GcmIntentJobService
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:72:9-74:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:74:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:73:13-61
+service#com.onesignal.RestoreJobService
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:75:9-77:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:77:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:76:13-59
+service#com.onesignal.RestoreKickoffJobService
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:78:9-80:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:80:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:79:13-66
+service#com.onesignal.SyncService
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:81:9-83:43
+	android:stopWithTask
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:83:13-40
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:82:13-53
+service#com.onesignal.SyncJobService
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:84:9-86:72
+	android:permission
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:86:13-69
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:85:13-56
+activity#com.onesignal.PermissionsActivity
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:88:9-90:75
+	android:theme
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:90:13-72
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:89:13-61
+service#com.onesignal.NotificationRestoreService
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:92:9-76
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:92:18-73
+receiver#com.onesignal.BootUpReceiver
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:94:9-99:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:94:19-62
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:96:17-79
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:96:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:97:25-79
+receiver#com.onesignal.UpgradeReceiver
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:100:9-104:20
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:100:19-63
+intent-filter#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:101:13-103:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:102:17-84
+	android:name
+		ADDED from [com.onesignal:OneSignal:3.10.5] /Users/alex/.gradle/caches/transforms-1/files-1.1/OneSignal-3.10.5.aar/9f9487adfda72d51da57ea829bfef205/AndroidManifest.xml:102:25-81
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/AndroidManifest.xml:29:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/AndroidManifest.xml:32:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/063c1fe39e255f31cd0f59e1d22af108/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:35:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/082249dcca9818968613595aef6716c5/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/33f39dcdfcdc9abbb9af87422ea68ac9/AndroidManifest.xml:49:13-87
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:42:13-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:57:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/6a5e4c7aa755004da9c0a6b7bc8f0a5d/AndroidManifest.xml:60:25-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8ebbe34fd1e7c22a38712955d18aea96/AndroidManifest.xml:23:9-26:75
 	android:exported
@@ -235,15 +700,13 @@ ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/alex/.gradl
 		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8ebbe34fd1e7c22a38712955d18aea96/AndroidManifest.xml:26:13-72
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/8ebbe34fd1e7c22a38712955d18aea96/AndroidManifest.xml:24:13-79
-meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34a5a821462025337db95dc0e0a46a28/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1f87fc2b5d140f84924115200a083e8f/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1f87fc2b5d140f84924115200a083e8f/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/109a36b4329d8d86f4a0c0c366fb92c4/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/109a36b4329d8d86f4a0c0c366fb92c4/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/efa80e4fbbabd1b17edba34292a05c3a/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/efa80e4fbbabd1b17edba34292a05c3a/AndroidManifest.xml:26:9-28:38
-	android:value
-		ADDED from [com.android.support:support-v4:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34a5a821462025337db95dc0e0a46a28/AndroidManifest.xml:28:13-35
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/526f6e43a218e4cd3923a9fd926c8c7b/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/526f6e43a218e4cd3923a9fd926c8c7b/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/526f6e43a218e4cd3923a9fd926c8c7b/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/526f6e43a218e4cd3923a9fd926c8c7b/AndroidManifest.xml:12:13-36
 	android:name
-		ADDED from [com.android.support:support-v4:26.1.0] /Users/alex/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/34a5a821462025337db95dc0e0a46a28/AndroidManifest.xml:27:13-51
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/526f6e43a218e4cd3923a9fd926c8c7b/AndroidManifest.xml:9:13-77

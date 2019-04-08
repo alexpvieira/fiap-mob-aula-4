@@ -18,6 +18,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Mở trên điện thoại"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Đăng nhập"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Đăng nhập bằng Google"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Khác"</string>
     <string name="pgm_api_key_error">Vui lòng thay \'API_KEY_FOR_ANDROID\' trong platforms/android/app/src/AndroidManifest.xml với API Key của bạn!</string>
     <string name="pgm_can_not_get_location">Không thể xác định vị trí của bạn. Vui lòng thử lại..</string>
     <string name="pgm_google_close_button">Đóng</string>

@@ -92,6 +92,7 @@ ext {
 
 // PLUGIN GRADLE EXTENSIONS START
 apply from: "../cordova-plugin-googlemaps/plugins-tbxml-android.gradle"
+apply from: "../onesignal-cordova-plugin/plugins-build-extras-onesignal.gradle"
 // PLUGIN GRADLE EXTENSIONS END
 
 def hasBuildExtras1 = file('build-extras.gradle').exists()
@@ -270,6 +271,7 @@ dependencies {
     compile "com.google.android.gms:play-services-maps:15.0.1"
     compile "com.google.android.gms:play-services-location:15.0.1"
     compile "com.android.support:support-core-utils:27.+"
+    compile "com.onesignal:OneSignal:3.10.5"
     // SUB-PROJECT DEPENDENCIES END
 }
 

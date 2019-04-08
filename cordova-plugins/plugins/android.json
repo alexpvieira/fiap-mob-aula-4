@@ -21,6 +21,9 @@
       "PLAY_SERVICES_VERSION": "15.0.1",
       "ANDROID_SUPPORT_V4_VERSION": "27.+",
       "PACKAGE_NAME": "com.example.plugins"
+    },
+    "onesignal-cordova-plugin": {
+      "PACKAGE_NAME": "com.example.plugins"
     }
   },
   "dependent_plugins": {}

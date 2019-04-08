@@ -18,6 +18,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"متنوعة"</string>
     <string name="pgm_api_key_error">مع مفتاح API الخاص بك \"API_KEY_FOR_ANDROID\" يرجى استبدال platforms/android/app/src/AndroidManifest.xml في منصات </string>
     <string name="pgm_can_not_get_location"> .لا يمكن الكشف عن موقعك. حاول ثانية </string>
     <string name="pgm_google_close_button">أغلق</string>

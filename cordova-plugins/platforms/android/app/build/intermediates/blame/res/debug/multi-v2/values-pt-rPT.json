@@ -13,11 +13,11 @@
                         "endOffsets": "266,2595,107,620,397,785,909,1076,1216,1392,1582,1735,1928,2105,2484,2271,2375"
                     },
                     "to": {
-                        "startLines": "20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36",
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2928,3089,3202,3261,3486,3619,3786,3912,4081,4223,4401,4593,4748,4943,5122,5233,5401",
+                        "startOffsets": "3035,3196,3309,3368,3593,3726,3893,4019,4188,4330,4508,4700,4855,5050,5229,5340,5508",
                         "endColumns": "160,112,58,224,132,166,125,168,141,177,191,154,194,178,110,167,105",
-                        "endOffsets": "3084,3197,3256,3481,3614,3781,3907,4076,4218,4396,4588,4743,4938,5117,5228,5396,5502"
+                        "endOffsets": "3191,3304,3363,3588,3721,3888,4014,4183,4325,4503,4695,4850,5045,5224,5335,5503,5609"
                     }
                 },
                 {
@@ -55,6 +55,23 @@
                     }
                 },
                 {
+                    "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/res/values-pt-rPT/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "209",
+                        "endColumns": "102",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2928",
+                        "endColumns": "106",
+                        "endOffsets": "3030"
+                    }
+                },
+                {
                     "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a00a71a87a75d02978c7ab109f00e31d/res/values-pt-rPT/values-pt-rPT.xml",
                     "from": {
                         "startLines": "2",
@@ -64,11 +81,11 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "37",
+                        "startLines": "38",
                         "startColumns": "4",
-                        "startOffsets": "5507",
+                        "startOffsets": "5614",
                         "endColumns": "100",
-                        "endOffsets": "5603"
+                        "endOffsets": "5710"
                     }
                 }
             ]

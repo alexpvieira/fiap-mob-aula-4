@@ -274,6 +274,14 @@ module.exports = [
     "file": "plugins/cordova-plugin-googlemaps/www/js_CordovaGoogleMaps-for-android_ios.js",
     "pluginId": "cordova-plugin-googlemaps",
     "runs": true
+  },
+  {
+    "id": "onesignal-cordova-plugin.OneSignal",
+    "file": "plugins/onesignal-cordova-plugin/www/OneSignal.js",
+    "pluginId": "onesignal-cordova-plugin",
+    "clobbers": [
+      "OneSignal"
+    ]
   }
 ];
 module.exports.metadata = 
@@ -282,7 +290,8 @@ module.exports.metadata =
   "cordova-plugin-whitelist": "1.3.3",
   "cordova-plugin-camera": "4.0.3",
   "cordova-plugin-geolocation": "4.0.1",
-  "cordova-plugin-googlemaps": "2.5.3"
+  "cordova-plugin-googlemaps": "2.5.3",
+  "onesignal-cordova-plugin": "2.4.6"
 };
 // BOTTOM OF METADATA
 });

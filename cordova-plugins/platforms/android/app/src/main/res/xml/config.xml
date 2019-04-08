@@ -54,6 +54,9 @@
     <feature name="PluginStreetViewPanorama">
         <param name="android-package" value="plugin.google.maps.PluginStreetViewPanorama" />
     </feature>
+    <feature name="OneSignalPush">
+        <param name="android-package" value="com.plugin.gcm.OneSignalPush" />
+    </feature>
     <name>Plugins</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.

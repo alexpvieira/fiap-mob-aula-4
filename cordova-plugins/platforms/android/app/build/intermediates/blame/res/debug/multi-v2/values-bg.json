@@ -13,11 +13,28 @@
                         "endOffsets": "151"
                     },
                     "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "3005",
+                        "endColumns": "100",
+                        "endOffsets": "3101"
+                    }
+                },
+                {
+                    "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/res/values-bg/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "99",
+                        "endOffsets": "304"
+                    },
+                    "to": {
                         "startLines": "20",
                         "startColumns": "4",
                         "startOffsets": "2901",
-                        "endColumns": "100",
-                        "endOffsets": "2997"
+                        "endColumns": "103",
+                        "endOffsets": "3000"
                     }
                 },
                 {

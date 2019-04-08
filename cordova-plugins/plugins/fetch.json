@@ -32,5 +32,13 @@
     "variables": {
       "API_KEY_FOR_ANDROID": "AIzaSyDQVDsJ40QMp6oh8ZYiix4fcuZawlCGfyM"
     }
+  },
+  "onesignal-cordova-plugin": {
+    "source": {
+      "type": "registry",
+      "id": "onesignal-cordova-plugin"
+    },
+    "is_top_level": true,
+    "variables": {}
   }
 }

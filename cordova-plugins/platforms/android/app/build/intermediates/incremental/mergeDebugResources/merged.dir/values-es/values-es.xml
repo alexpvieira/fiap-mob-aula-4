@@ -18,6 +18,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Abrir en teléfono"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Iniciar sesión"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Iniciar sesión con Google"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Varias"</string>
     <string name="pgm_api_key_error">Por favor reemplace \'API_KEY_FOR_ANDROID\' en el archivo platforms/android/app/src/AndroidManifest.xml por su API Key!</string>
     <string name="pgm_can_not_get_location">No se pudo detectar tu ubicación. Inténtalo de nuevo.</string>
     <string name="pgm_google_close_button">Cerrar</string>

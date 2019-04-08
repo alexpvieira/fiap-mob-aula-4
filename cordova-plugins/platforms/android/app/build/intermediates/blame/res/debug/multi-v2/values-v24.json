@@ -4,7 +4,7 @@
             "outputFile": "/Users/alex/Aulas/fiap-mob-aula-4/cordova-plugins/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/109a36b4329d8d86f4a0c0c366fb92c4/res/values-v24/values-v24.xml",
+                    "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a457514bfe6de748c6b173d9d1f34fe8/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -38,6 +38,23 @@
                     }
                 },
                 {
+                    "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/4653de715e897deef24bdfd9a562c30e/res/values-fr-rCA/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "209",
+                        "endColumns": "100",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "3006",
+                        "endColumns": "104",
+                        "endOffsets": "3106"
+                    }
+                },
+                {
                     "source": "/Users/alex/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a00a71a87a75d02978c7ab109f00e31d/res/values-fr-rCA/values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
@@ -47,11 +64,11 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "20",
+                        "startLines": "21",
                         "startColumns": "4",
-                        "startOffsets": "3006",
+                        "startOffsets": "3111",
                         "endColumns": "100",
-                        "endOffsets": "3102"
+                        "endOffsets": "3207"
                     }
                 }
             ]
